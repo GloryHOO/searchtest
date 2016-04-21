@@ -59,3 +59,9 @@ local.properties
 .classpath
 .settings/
 .loadpath
+
+
+#################
+## MAVEN
+#################
+target/
